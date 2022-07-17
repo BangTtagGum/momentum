@@ -1,0 +1,42 @@
+#todo-form {
+    padding-top: 30px;
+    width: 450px;
+    height: 40px;
+}
+
+#todo-form input {
+    width :450px;
+    height: 40px;
+    color :white;
+}
+#todo-list{
+    margin-top: 50px;
+    position: relative;
+    width:400px;
+}
+
+#todo-list li{
+
+    display: flex;
+    align-items: center;
+}
+#todo-list button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    opacity: 0.4;
+    border-radius: 20px;
+    transition: opacity 0.2s ease-in-out;
+}
+#todo-list button:hover {
+    opacity:0.9;
+    
+}
+#todo-list span{
+    color : white;
+    opacity: 0.9;
+    font-size: 30px;
+    margin:15px;
+    font-weight: 300;
+    text-shadow: 0px 0px 1px black;
+}

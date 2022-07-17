@@ -1,0 +1,18 @@
+.clock{
+    position: relative;
+    margin-top: 200px;
+    color:white;
+    text-align: center;
+    
+}
+.clock h2{
+    font-size: 180px;
+    font-weight: 600;
+}
+.clock span{
+    font-size: 50px;
+    position:absolute;
+    top: 110px;
+    right: -68px;
+    color: rgba(255,255,255,0.8);
+}

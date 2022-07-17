@@ -1,0 +1,8 @@
+#greeting {
+    font-size: 45px;
+    color:white;
+    position:relative;
+    top:-40px;
+    font-weight: 100;
+    text-shadow: 0 0 1px grey;
+}
